@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**H3MMM/H3MMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6C37&center=true&width=500&lines=Hi!%F0%9F%91%8B" alt="Typing SVG" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- 简短自我介绍 -->
+<p>
+我是 <b>陈嘉毅</b>，目前是一名大二学生，热衷于 <b>软件开发</b> 和 <b>开源项目</b>。
+</p>
+
+📂[我的Github主页](https://github.com/H3MMM)
+
+
+
+### 🛠️ 技术栈
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+### 📊 GitHub 数据
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=H3MMM&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3MMM&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+
+
+### 📈 GitHub 活跃图
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=H3MMM&theme=react-dark&hide_border=true)
+
+
+
+
+### 👀 访问量
+![Profile Views](https://komarev.com/ghpvc/?username=H3MMM&style=flat-square)
+
+
+
+</div>
