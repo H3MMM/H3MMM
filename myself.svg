@@ -1,0 +1,179 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bubble {
+      fill: #e9e9eb;
+    }
+    text {
+      fill: #242424;
+      font-size: 18px;
+      font-family: 'PingFang SC', 'Microsoft YaHei', 'Inter', -apple-system, sans-serif;
+      letter-spacing: -0.02em;
+    }
+
+    .typing-1 {
+      opacity: 0;
+      animation: fade-in-out 1.5s;
+    }
+
+    .msg-1 {
+      animation: wait 1.7s, msg-1 0.2s 1.7s;
+    }
+
+    .typing-2 {
+      opacity: 0;
+      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+    }
+
+    .msg-2 {
+      animation: wait 4.2s, msg-2 0.2s 4.2s;
+    }
+
+    .typing-3 {
+      opacity: 0;
+      animation: wait 5s, fade-in-out 1.5s 5s;
+    }
+
+    .msg-3 {
+      animation: wait 6.7s, msg-3 0.2s 6.7s;
+    }
+
+    .typing-4 {
+      opacity: 0;
+      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+    }
+
+    .msg-4 {
+      animation: wait 9.2s, msg-4 0.2s 9.2s;
+    }
+
+    @keyframes wait {
+      0%, 100% { opacity: 0; }
+    }
+
+    @keyframes fade-in-out {
+      0%, 100% { opacity: 0; }
+      25%, 90% { opacity: 1; }
+    }
+
+    @keyframes msg-1 {
+      0% { opacity: 0; transform: translate(10px, 5px); }
+      100% { opacity: 1; transform: translate(10px, 0); }
+    }
+
+    @keyframes msg-2 {
+      0% { opacity: 0; transform: translate(10px, 53px); }
+      100% { opacity: 1; transform: translate(10px, 48px); }
+    }
+
+    @keyframes msg-3 {
+      0% { opacity: 0; transform: translate(10px, 101px); }
+      100% { opacity: 1; transform: translate(10px, 96px); }
+    }
+
+    @keyframes msg-4 {
+      0% { opacity: 0; transform: translate(10px, 149px); }
+      100% { opacity: 1; transform: translate(10px, 144px); }
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      .bubble {
+        fill: #3b3b3d;
+      }
+      text {
+        fill: #dcdcdc;
+      }
+    }
+  </style>
+  
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27" width="69.72" height="42" rx="20.97" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.54" cy="41.95" r="3.54" class="bubble" />
+    <circle cx="27.47" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.20" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- 1: "我是陈嘉毅" -->
+  <g transform="translate(10, 0)" class="msg-1">
+    <rect width="130" height="42" rx="18.03" class="bubble" />
+    <text x="15" y="27">我是陈嘉毅</text>
+  </g>
+
+  <!-- typing 2 -->
+  <g transform="translate(10, 96)" class="typing-3">
+    <rect x="8.27" width="69.72" height="42" rx="20.97" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.54" cy="41.95" r="3.54" class="bubble" />
+    <circle cx="27.47" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.20" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- 2: "是一名大二学生" -->
+  <g transform="translate(10, 96)" class="msg-3">
+    <rect width="160" height="42" rx="18.03" class="bubble" />
+    <text x="15" y="27">是一名大二学生</text>    
+  </g>
+
+
+  <!-- typing 3 -->
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8.27" width="69.72" height="42" rx="20.97" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.54" cy="41.95" r="3.54" class="bubble" />
+    <circle cx="27.47" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.20" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- 3: "目前就读于杭州电子科技大学" -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="280" height="42" rx="18.03" class="bubble" />
+    <text x="15" y="27">目前就读于杭州电子科技大学</text>
+  </g>
+
+
+
+  <!-- typing 4 -->
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect x="8.27" width="69.72" height="42" rx="20.97" class="bubble" />
+    <circle cx="13.59" cy="33.09" r="7.68" class="bubble" />
+    <circle cx="3.54" cy="41.95" r="3.54" class="bubble" />
+    <circle cx="27.47" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.84" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.20" cy="20.97" r="5.02" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- 4: "热衷于软件开发和开源项目" -->
+  <g transform="translate(10, 144)" class="msg-4">
+    <rect width="250" height="42" rx="18.03" class="bubble" />
+    <text x="15" y="27">热衷于软件开发和开源项目</text>    
+  </g> 
+
+</svg>
