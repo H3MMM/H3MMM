@@ -3,14 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&pause=1000&color=FF6C37&center=true&width=700&lines=Hi+There+!" alt="Typing SVG" />
 
 
-
-
-
-
-<p>
-我是 <b>陈嘉毅</b>，目前是一名大二学生，热衷于 <b>软件开发</b> 和 <b>开源项目</b>。
-</p>
-
+![Chat](https://raw.githubusercontent.com/H3MMM/H3MMM/main/myself.svg)
 
 
 
