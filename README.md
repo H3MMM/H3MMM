@@ -25,8 +25,8 @@
 
 ### 📊 GitHub 数据
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=H3MMM&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3MMM&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=H3MMM&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3MMM&layout=compact&theme=gotham" />
 </div>
 
 
