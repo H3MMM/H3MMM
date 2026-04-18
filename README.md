@@ -14,8 +14,8 @@
 ![RISC-V](https://img.shields.io/badge/RISC--V-FF6600?style=for-the-badge&logo=risc-v&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=H3MMM&show_icons=true&theme=gotham" />
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3MMM&layout=compact&theme=gotham" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=H3MMM&show_icons=true&theme=gotham&count_private=true" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=H3MMM&layout=compact&theme=gotham&count_private=true" />
 
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=H3MMM&theme=react-dark&hide_border=true)
